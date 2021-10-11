@@ -1,6 +1,7 @@
 
-##### Olá, me chamo Felipe Pedrosa mas pode me chamar apenas por Pedrosa, se preferir.
+## Olá, me chamo Felipe Pedrosa mas pode me chamar apenas por Pedrosa, se preferir.
 
+- 📊 Focado em Data Science
 - 🙌 Faço engenharia na UFSC
 - 📩 Contate-me por email: felipepedrosacpv@gmail.com
 - 👍 Estudo na comunidade DS 
